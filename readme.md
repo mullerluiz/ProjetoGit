@@ -14,6 +14,12 @@ Pull   = Pegar o que esta no GitHub para sua máquina.
 ========================================================
 Comando para checar a versão do Git
 Git --version
+Git config --global user.name "Fulano de Tal"
+Git config --global user.email fulanodetal@exemplo.br
 Git Init = Para iniciar 
 Git add + nome do programa, para enviar ao Git.
 Git status = Para ver o que tem no Git.
+Git branch -M "Main"
+=========================================================
+Uma alteração
+=========================================================
